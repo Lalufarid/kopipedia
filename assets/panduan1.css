@@ -1,0 +1,181 @@
+html {
+	position: relative;
+}
+body {
+	margin-top: 0px;
+	margin-bottom: 100px;   
+}
+
+
+
+/*Footer*/
+footer {
+	position: absolute;
+	width: 100%;
+	background-color: #124f99;
+	font-family: raleway;
+	color: white;
+}
+/*jarak keterangan*/
+footer .row{
+	margin-top: 25px;
+}
+/*judul keterangan*/
+footer .col-sm-3 h5{
+	font-size: 13px;
+	font-weight: bold;
+}
+/*keterangan*/
+footer .col-sm-3 a {
+	font-size: 13px;
+	text-decoration: none;
+	color: white;
+}
+/*daftar*/
+footer .fot {
+	font-size: 12px;
+}
+/*buttom daftar*/
+.col-sm-3 .btn {
+	font-size: 10px;
+	background-color:  #ff4900;
+	font-weight: bold;
+	color: white;
+	margin-top: -15px;
+}
+/*garis*/
+footer hr{
+	border-top: 2px solid white;
+}
+/*sosial media*/
+footer .col-sm-12 h5{
+	margin-top: -20px;
+	text-align: center;
+	font-size: 15px;
+	font-family: arkhip;
+	letter-spacing: 2px;
+}
+footer .col-sm-12 a {
+	color: white;
+}
+.col-sm-12 .tengah{
+	margin-left: 40%;
+}
+
+/* CSS Navbar */
+.navbar{
+	background-color: #F0F0F0;
+}
+.navbar-toggler{
+	background-color: #124f99;
+	color: #F0F0F0;
+}
+#nav{
+	color: #124f99;
+	font-weight: bold;
+	font-family: raleway;
+	font-size: 16px;
+	letter-spacing: 1px;
+}
+/* CSS Navbar */
+
+
+/*PANDUAN*/
+/*background*/
+.jumbotron {
+	background-image: url(img/artikel/artikel8.jpg);
+	background-size: cover;
+	height: 450px;
+	background-position: 0 -120px;
+	text-align: center;
+}
+.jumbotron a {
+	background-color: #ee6e42;
+	color: white;
+	background-size: cover;
+	background-position: center;
+	text-align: center;
+	margin-top: 50px;
+}
+/*keterangan panduan*/
+.tulis {
+	margin-top: -120px;
+	background-color: white;
+	width: 90%;
+	margin-left: 5%;
+	padding: 20px;
+	border-top-right-radius: 35px;
+	border-top-left-radius: 35px;
+}
+.tulis h4 {
+	margin-top: 10px;
+	color: #ff4900;
+	font-family: arkhip;
+	letter-spacing: 4px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+.tulis p{
+	font-family: raleway;
+	font-size: 16px;
+	margin-top: 20px;
+	line-height: 28px;
+}
+.tulis hr{
+	border-top: 2px solid #ff4900;
+}
+
+/*Panduan-Panduan*/
+.panduan {
+	margin-top: 10px;
+}
+.panduan .row{
+	margin-top: 30px;
+}
+.panduan .col-sm-6 a {
+	font-family: raleway;
+	font-size: 14px;
+	font-weight: bold;
+}
+.panduan .col-sm-6 p {
+	font-family: raleway;
+	font-size: 14px;
+}
+.panduan .card-title{
+	color: #ff4900;
+	font-family: arkhip;
+	font-weight: bold;
+}
+strong{
+	color: #ff4900;
+	text-transform: uppercase;
+
+}
+.panduan .btn{
+	background-color: #ff4900;
+	font-family: raleway;
+	font-weight: bold;
+	border: none;
+}
+/*cari*/
+.cari button {
+	background-color: #ff4900;
+	font-family: raleway;
+	color: white;
+	padding-left: 2%;
+	padding-right: 2%;
+	border: 0px;
+	border-radius: 3px;
+}
+.cari input .form-control {
+	font-family: raleway;
+	width: 93%;
+}
+#btn{
+	
+	background-color: #ff4900;
+	font-family: raleway;
+	font-weight: bold;
+	border: none;
+}
+

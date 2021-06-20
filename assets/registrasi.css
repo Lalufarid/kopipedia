@@ -1,0 +1,124 @@
+html {
+	position: relative;
+}
+body {
+	margin-top: 0px;
+	margin-bottom: 100px;  
+	font-family: raleway;
+}
+
+
+/* CSS Navbar */
+.navbar{
+	background-color: #f0f0f0;
+}
+.navbar-toggler{
+	background-color: #124f99;
+	color: #F0F0F0;
+}
+#nav{
+	color: #124f99;
+	font-weight: bold;
+	font-size: 15px;
+	letter-spacing: 2px;
+}
+/* CSS Navbar */
+
+
+/*CSS Footer*/
+footer {
+	margin-top: 20px;
+	position: absolute;
+	width: 100%;
+	background-color: #124f99;
+	color: white;
+}
+/*jarak keterangan*/
+footer .row{
+	margin-top: 25px;
+}
+/*judul keterangan*/
+footer .col-sm-3 h5{
+	margin-top: 13px;
+	font-size: 13px;
+	font-weight: bold;
+}
+/*keterangan*/
+footer .col-sm-3 a {
+	font-size: 13px;
+	text-decoration: none;
+	color: white;
+}
+/*daftar*/
+footer .fot {
+	margin-top: 13px;
+	font-size: 12px;
+}
+/*buttom daftar*/
+.col-sm-3 .btn {
+	font-size: 10px;
+	background-color:  #ee6e42;
+	font-weight: bold;
+	color: white;
+	margin-top: -15px;
+}
+/*garis*/
+footer hr{
+	border-top: 2px solid white;
+}
+/*sosial media*/
+footer .col-sm-12 h5{
+	margin-top: -25px;
+	text-align: center;
+	font-size: 15px;
+	font-weight: bold;
+	letter-spacing: 2px;
+}
+footer .col-sm-12 a {
+	color: white;
+}
+.col-sm-12 .tengah{
+	margin-left: 40%;
+}
+/*CSS Footer*/
+
+
+/*CSS Registrasi*/
+.registrasi .row {
+	margin-top: 30px;
+}
+h2 {
+	color: #124f99;
+	font-family: arkhip;
+	letter-spacing: 3px;
+	font-size: 29px;
+}
+.registrasi .daftar{
+	margin-top: 30px;
+	text-align: right;
+}
+.registrasi input{
+	font-size: 14.5px;
+}
+.daftar p{
+	margin-top: 7px;
+	font-size: 14.5px;
+}
+.registrasi hr {
+	margin-top: 30px;
+	width: 90px;
+	border-top: 3px solid #124f99;
+}
+
+.registrasi button {
+	color: white;
+	background-color: #ee6e42;
+	font-weight: bold;
+	font-size: 14.5PX;
+	padding-left: 20px;
+	padding-right:20px; 
+}
+.registrasi {
+	margin-top: 90px;
+	min-height: 570px;
+}

@@ -1,0 +1,4 @@
+1. Buat database dengan nama db_kopi di phpmyadmin lalu insert database yg terdapat pada folder codeigniter
+2. taruh folder codeigniter didlem folder htdocs
+3. aktifkan apache dan mysql pada xamppcontrol.
+4. selamat mengakses

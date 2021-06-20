@@ -1,0 +1,189 @@
+html {
+	position: relative;
+}
+body {
+	margin-top: 0px;
+	margin-bottom: 100px;   
+}
+
+/*Footer*/
+footer {
+	margin-top: 20px;
+	position: absolute;
+	width: 100%;
+	background-color: #124f99;
+	font-family: raleway;
+	color: white;
+}
+/*jarak keterangan*/
+footer .row{
+	margin-top: 25px;
+}
+/*judul keterangan*/
+footer .col-sm-3 h5{
+	margin-top: 13px;
+	font-size: 13px;
+	font-weight: bold;
+}
+/*keterangan*/
+footer .col-sm-3 a {
+	font-size: 13px;
+	text-decoration: none;
+	color: white;
+}
+/*daftar*/
+footer .fot {
+	margin-top: 13px;
+	font-size: 12px;
+}
+/*buttom daftar*/
+.col-sm-3 .btn {
+	font-size: 10px;
+	background-color:  #ee6e42;
+	font-weight: bold;
+	color: white;
+	margin-top: -15px;
+}
+/*garis*/
+footer hr{
+	border-top: 2px solid white;
+}
+/*sosial media*/
+footer .col-sm-12 h5{
+	margin-top: -12px;
+	text-align: center;
+	font-size: 15px;
+	font-family: raleway;
+	font-weight: bold;
+	letter-spacing: 2px;
+}
+footer .col-sm-12 a {
+	color: white;
+}
+.col-sm-12 .tengah{
+	margin-left: 40%;
+}
+
+/* CSS Navbar */
+.navbar{
+	background-color: #F0F0F0;
+}
+.navbar-toggler{
+	background-color: #124f99;
+	color: #F0F0F0;
+}
+#nav{
+	color: #124f99;
+	font-weight: bold;
+	font-family: raleway;
+	font-size: 15px;
+	letter-spacing: 2px;
+}
+/* CSS Navbar */
+
+
+
+/* CSS konten */
+.jumbotron {
+	background-image: url(img/kopi/latar.jpg);
+	background-size: cover;
+	height: 630px;
+	text-align: center;
+	text-transform: bold;
+}
+#tulisan_roaster{
+	font-family: raleway:;
+}
+
+.jumbotron .display-4 {
+	font-size: 43px;
+	margin-top: 150px;
+	font-family: arkhip;
+	line-height: 55px;
+}
+.jumbotron .btn, #tombol_panduan {
+	background-color: #ee6e42;
+	border: none;
+	padding-left: 20px;
+	padding-right: 20px;
+	margin-top: 15px;
+	font-family: raleway;
+	font-size: 15px;
+	font-weight: bold;
+}
+.container .row {
+	margin-top: 10px;
+}
+.roaster h4 {
+	color: #124f99;
+	font-family: arkhip;
+	letter-spacing: 5px;
+	line-height: 35px;
+}
+.roaster p{
+	font-family: raleway;
+	margin-top: 20px;
+	font-size: 16px;
+
+}
+#tombol_roaster{
+	background-color: #ee6e42;
+	border: none;
+	padding-top: 9px;
+	padding-bottom: 7px;
+	padding-left: 25px;
+	padding-right: 25px;
+	font-family: raleway;
+	font-weight: bold;
+	margin-top: 35px;
+}
+.tulisan {
+	margin-top: 40px;
+}
+
+.col-sm-4 h5{
+	margin-top: 5px;
+	font-size: 15px;
+	font-weight: bold;
+	line-height: 23px;
+	color: #ee6e42;
+}
+.col-sm-4 .materi {
+	font-family: raleway;
+	margin-left: 1.2%;
+	font-size: 14px;
+	padding-left: 10px;
+	padding-right: 10px;
+	line-height: 23px;
+}
+.tulisan h4 {
+	color: #124f99;
+	font-family: arkhip;
+	margin-top: 12px;
+	letter-spacing: 5px;
+}
+.panduan {
+	margin-top: 80px;
+	min-height: 400px;
+}
+
+.panduan h4{
+	color: #124f99;
+	font-family: arkhip;
+	padding-top: 60px;
+	line-height: 25px;
+	letter-spacing: 2px;
+	margin-bottom: 25px;
+	text-transform: uppercase;
+}
+.panduan p , #tulisan_p{
+	text-align: justify;
+}
+.panduan .img-thumbnail {
+	border: 0px;
+}
+.col-sm-4 .img-thumbnail{
+	border: 0px;
+	background: transparent;
+}
+/* CSS konten */

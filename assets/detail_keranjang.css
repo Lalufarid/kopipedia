@@ -1,0 +1,160 @@
+html {
+	position: relative;
+}
+body {
+	margin-top: 0px;
+	margin-bottom: 100px;   
+}
+
+
+
+/*Footer*/
+footer {
+	margin-top: 20px;
+	position: absolute;
+	width: 100%;
+	background-color: #124f99;
+	font-family: raleway;
+	color: white;
+}
+/*jarak keterangan*/
+footer .row{
+	margin-top: 25px;
+}
+/*judul keterangan*/
+footer .col-sm-3 h5{
+	margin-top: 13px;
+	font-size: 13px;
+	font-weight: bold;
+}
+/*keterangan*/
+footer .col-sm-3 a {
+	font-size: 13px;
+	text-decoration: none;
+	color: white;
+}
+/*daftar*/
+footer .fot {
+	margin-top: 13px;
+	font-size: 12px;
+}
+/*buttom daftar*/
+.col-sm-3 .btn {
+	font-size: 10px;
+	background-color:  #ee6e42;
+	font-weight: bold;
+	color: white;
+	margin-top: -15px;
+}
+/*garis*/
+footer hr{
+	border-top: 2px solid white;
+}
+/*sosial media*/
+footer .col-sm-12 h5{
+	margin-top: -12px;
+	text-align: center;
+	font-size: 15px;
+	font-family: raleway;
+	font-weight: bold;
+	letter-spacing: 2px;
+}
+footer .col-sm-12 a {
+	color: white;
+}
+.col-sm-12 .tengah{
+	margin-left: 40%;
+}
+
+/* CSS Navbar */
+.navbar{
+	background-color: #F0F0F0;
+}
+.navbar-toggler{
+	background-color: #124f99;
+	color: #F0F0F0;
+}
+#nav{
+	color: #124f99;
+	font-weight: bold;
+	font-family: raleway;
+	font-size: 16px;
+	letter-spacing: 1px;
+}
+/* CSS Navbar */
+
+/*Shopping Cart*/
+.cart {
+	min-height: 450px;
+}
+.cart h3{
+	margin-top: 13px;
+	color: #124f99;
+	font-family: raleway;
+	letter-spacing: 2px;
+}
+.cart hr {
+	border-top: 3px solid #124f99;
+	width: 70px;
+}
+/*Shopping Cart*/
+
+
+/*Keranjang*/
+.keranjang {
+	margin-top: 30px;
+	font-family: raleway;
+	font-size: 14px;
+}
+.keranjang .btn{
+	width: 75%;
+	background-color: #ee6e42;
+	font-weight: bold;
+	border: none;
+	font-size: 14px;
+	color: white;
+}
+.keranjang .lanjut{
+	margin-top: 20px;
+	margin-left: 28%;
+}
+.keranjang a{
+	text-decoration: none;
+	color: #124f99;
+}
+.col-sm-6 h5{
+	font-weight: bold;
+	color: #124f99;
+	letter-spacing: 2px;
+}
+.jarak {
+	margin-top: 20px;
+}
+.jarak p{
+	line-height: 7px;
+}
+.img-thumbnail{
+	border: 0px;
+}
+.jarak a{
+	line-height: 24px;
+	font-weight: bold;
+	text-decoration: none;
+}
+.informasi {
+	background-color: white;
+}
+.breadcrumb{
+	font-size: 12px;
+}
+/*Keranjang*/
+
+
+/*Catatan*/
+.form-group h6{
+	font-family: raleway;
+	font-size: 14px;
+	color: #363636;
+	margin-bottom: -20px;
+}
+/*Catatan*/

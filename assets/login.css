@@ -1,0 +1,132 @@
+html {
+	position: relative;
+}
+body {
+	margin-bottom: 100px;   
+	font-family: raleway;
+}
+
+
+/* CSS Navbar */
+.navbar{
+	background-color: #f0f0f0;
+}
+.navbar-toggler{
+	background-color: #124f99;
+	color: #F0F0F0;
+}
+#nav{
+	color: #124f99;
+	font-weight: bold;
+	font-size: 15px;
+	letter-spacing: 2px;
+}
+/* CSS Navbar */
+
+
+/*Footer*/
+footer {
+	margin-top: 20px;
+	position: absolute;
+	width: 100%;
+	background-color: #124f99;
+	color: white;
+}
+/*jarak keterangan*/
+footer .row{
+	margin-top: 25px;
+}
+/*judul keterangan*/
+footer .col-sm-3 h5{
+	margin-top: 13px;
+	font-size: 13px;
+	font-weight: bold;
+}
+/*keterangan*/
+footer .col-sm-3 a {
+	font-size: 13px;
+	text-decoration: none;
+	color: white;
+}
+/*daftar*/
+footer .fot {
+	margin-top: 13px;
+	font-size: 12px;
+}
+/*buttom daftar*/
+.col-sm-3 .btn {
+	font-size: 10px;
+	background-color:  #ee6e42;
+	font-weight: bold;
+	color: white;
+	margin-top: -15px;
+}
+/*garis*/
+footer hr{
+	border-top: 2px solid white;
+}
+/*sosial media*/
+footer .col-sm-12 h5{
+	margin-top: -25px;
+	text-align: center;
+	font-size: 15px;
+	font-weight: bold;
+	letter-spacing: 2px;
+}
+footer .col-sm-12 a {
+	color: white;
+}
+.col-sm-12 .tengah{
+	margin-left: 40%;
+}
+/*Footer*/
+
+
+
+/*CSS LOGIN*/
+.row .sign {
+text-align: right;
+margin-top: 0px;
+font-size: 14px;
+}
+h2 {
+	color: #124f99;
+	letter-spacing: 2px;
+}
+.login hr {
+	margin-top: 25px;
+	width: 60px;
+	border-top: 3px solid #124f99;
+}
+.login {
+	margin-top: 90px;
+	min-height: 465px;
+}
+.login label{
+	font-weight: bold;
+	font-size: 14px;
+}
+.login input{
+	font-size: 14px;
+	padding: 20px 10px  20px 10px;
+}
+.login .form-group{
+	margin-bottom: 25px;
+}
+.col-sm-6 button {
+	font-size: 14px;
+	color: white;
+	font-weight: bold;
+	border: none;
+	letter-spacing: 1px;
+	background-color: #ee6e42;
+	padding-left: 20px;
+	padding-right: 20px; 
+}
+.login a{
+	text-decoration: none;
+	color: #124f99;
+}
+.logiin a{
+	color: white;
+}

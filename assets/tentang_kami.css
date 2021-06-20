@@ -1,0 +1,122 @@
+html {
+	position: relative;
+}
+body {
+	margin-top: 0px;
+	margin-bottom: 100px;   
+}
+
+
+
+/*Footer*/
+footer {
+	margin-top: 20px;
+	position: absolute;
+	width: 100%;
+	background-color: #124f99;
+	font-family: raleway;
+	color: white;
+}
+/*jarak keterangan*/
+footer .row{
+	margin-top: 25px;
+}
+/*judul keterangan*/
+footer .col-sm-3 h5{
+	margin-top: 13px;
+	font-size: 13px;
+	font-weight: bold;
+}
+/*keterangan*/
+footer .col-sm-3 a {
+	font-size: 13px;
+	text-decoration: none;
+	color: white;
+}
+/*daftar*/
+footer .fot {
+	margin-top: 13px;
+	font-size: 12px;
+}
+/*buttom daftar*/
+.col-sm-3 .btn {
+	font-size: 10px;
+	background-color:  #ee6e42;
+	font-weight: bold;
+	color: white;
+	margin-top: -15px;
+}
+/*garis*/
+footer hr{
+	border-top: 2px solid white;
+}
+/*sosial media*/
+footer .col-sm-12 h5{
+	margin-top: -12px;
+	text-align: center;
+	font-size: 15px;
+	font-family: raleway;
+	font-weight: bold;
+	letter-spacing: 2px;
+}
+footer .col-sm-12 a {
+	color: white;
+}
+.col-sm-12 .tengah{
+	margin-left: 40%;
+}
+
+/* CSS Navbar */
+.navbar{
+	background-color: #F0F0F0;
+}
+.navbar-toggler{
+	background-color: #124f99;
+	color: #F0F0F0;
+}
+#nav{
+	color: #124f99;
+	font-weight: bold;
+	font-family: raleway;
+	font-size: 16px;
+	letter-spacing: 1px;
+}
+/* CSS Navbar */
+
+/* CSS konten */
+.jumbotron {
+	background-image: url("img/img.jpg");
+	background-size: cover;
+	height: 630px;
+	text-align: center;
+	text-transform: bold;
+	background-position: center;
+}
+#tulisan_roaster{
+	font-family: raleway:;
+}
+.jumbotron .display-4 {
+	font-size: 43px;
+	margin-top: 320px;
+	font-family: raleway;
+	line-height: 55px;
+	color: white;
+	font-weight: bold;
+	letter-spacing: 4px;
+}
+
+.tentang{
+	margin-top: 70px;
+	margin-bottom: 20px;
+	line-height: 30px;
+}
+.tentang h5{
+	color: #124f99;
+	font-weight: bold;
+	letter-spacing: 2px;
+}
+.makasi{
+	margin-top: 50px;
+	color: #124f99;
+	font-style: italic;
+}

@@ -1,0 +1,113 @@
+html {
+	position: relative;
+}
+body {
+	margin-top: 0px;
+	margin-bottom: 100px;   
+}
+
+
+
+/*Footer*/
+footer {
+	margin-top: 20px;
+	position: absolute;
+	width: 100%;
+	background-color: #124f99;
+	font-family: raleway;
+	color: white;
+}
+/*jarak keterangan*/
+footer .row{
+	margin-top: 25px;
+}
+/*judul keterangan*/
+footer .col-sm-3 h5{
+	margin-top: 13px;
+	font-size: 13px;
+	font-weight: bold;
+}
+/*keterangan*/
+footer .col-sm-3 a {
+	font-size: 13px;
+	text-decoration: none;
+	color: white;
+}
+/*daftar*/
+footer .fot {
+	margin-top: 13px;
+	font-size: 12px;
+}
+/*buttom daftar*/
+.col-sm-3 .btn {
+	font-size: 10px;
+	background-color:  #ee6e42;
+	font-weight: bold;
+	color: white;
+	margin-top: -15px;
+}
+/*garis*/
+footer hr{
+	border-top: 2px solid white;
+}
+/*sosial media*/
+footer .col-sm-12 h5{
+	margin-top: -12px;
+	text-align: center;
+	font-size: 15px;
+	font-family: raleway;
+	font-weight: bold;
+	letter-spacing: 2px;
+}
+footer .col-sm-12 a {
+	color: white;
+}
+.col-sm-12 .tengah{
+	margin-left: 40%;
+}
+
+/* CSS Navbar */
+.navbar{
+	background-color: #F0F0F0;
+}
+.navbar-toggler{
+	background-color: #124f99;
+	color: #F0F0F0;
+}
+#nav{
+	color: #124f99;
+	font-weight: bold;
+	font-family: raleway;
+	font-size: 16px;
+	letter-spacing: 1px;
+}
+/* CSS Navbar */
+/*HUBUNGI*/
+.hubungi {
+	margin-top: 90px;
+	margin-bottom: 60px;
+}
+.hubungi .btn{
+	background-color: #ee6e42;
+	border:none;
+	font-weight: bold;
+	padding-left: 15px;
+	padding-right: 15px; 
+	font-size: 14px;
+}
+.hubungi hr{
+	margin-top: 15px;
+	margin-bottom: 40px;
+	border-top:3px solid #124f99;
+	width: 70px;
+}
+.hubungi h3{
+	color: #124f99;
+	letter-spacing: 3px;
+}
+.hubungi .nomor p{
+	line-height: 13px;
+}
+.hubungi .nomor {
+	margin-bottom: 30px;
+}
